@@ -34,3 +34,5 @@ if __name__ == '__main__':
     except:
         print('* * * * * * E R R O R * * * * * *')
         print('Por favor, Ingresa solo valores numericos')
+
+print('This is a random text justo to explain how does git and github worlk')
